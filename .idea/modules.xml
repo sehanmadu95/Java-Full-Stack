@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java Full/Java Full.iml" filepath="$PROJECT_DIR$/Java Full/Java Full.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Full-Stack.iml" filepath="$PROJECT_DIR$/.idea/Java-Full-Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checking/checking.iml" filepath="$PROJECT_DIR$/checking/checking.iml" />
+    </modules>
+  </component>
+</project>
