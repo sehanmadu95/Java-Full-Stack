@@ -1,4 +1,4 @@
-package JavaCoreCocept.intefce;
+package IntefceCocept;
 
 public class MainInterfaceConcept {
     public static void main(String[] args) {
