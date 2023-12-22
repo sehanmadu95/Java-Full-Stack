@@ -1,4 +1,4 @@
-package JavaCoreCocept.intefce;
+package IntefceCocept;
 
 public interface Phone {
     String processor();

@@ -1,4 +1,4 @@
-package JavaCoreCocept.intefce;
+package IntefceCocept;
 
 public class Apple implements Phone{
     @Override
