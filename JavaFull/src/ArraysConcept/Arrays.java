@@ -1,5 +1,7 @@
 package ArraysConcept;
 
+import java.util.Scanner;
+
 public class Arrays {
     public static void main(String[] args) {
          int [] numbers={1,2,5,9,7};
@@ -19,6 +21,9 @@ public class Arrays {
          for(int x:numbers){
              System.out.println(x);
          }
+
+        Scanner scanner=new Scanner(System.in);
+         int num=scanner.nextInt();
 
     }
 }
